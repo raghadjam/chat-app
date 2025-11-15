@@ -1,5 +1,5 @@
 
-````markdown
+```
 # Realtime Chat App
 
 A simple realtime chat app built with **Next.js (TypeScript)** and **Ably Realtime**. Multiple users can send and receive messages instantly.
@@ -25,7 +25,4 @@ A simple realtime chat app built with **Next.js (TypeScript)** and **Ably Realti
    npm run dev
    ```
 
-```
-
-Do you want me to do that?
 ```
